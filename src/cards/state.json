@@ -1,0 +1,76 @@
+{
+  "currentUniverse": "MOTW",
+  "cards": [
+    {
+      "description": "One - Roll a character from your tribe. This character discovers a secret/rumor about one person each from the two other tribes. OR Roll a character from your tribe. This character learns something about the world.",
+      "pulled": false
+    },
+    {
+      "description": "Two - A secret love letter is discovered. Who discovers it and who is it to/from? OR Roll a character from your own tribe and one from another tribe. These two are stuck together hiding from a horde. Do they come out of it on better or worse terms?",
+      "pulled": false
+    },
+    {
+      "description": "Three - Someone is lost during a scouting mission. Discuss whether to send out people to look for them. OR Someone sneaks out to look for them on their own.",
+      "pulled": false
+    },
+    {
+      "description": "Four - A misunderstanding leads to one person thinking another is trying to get with them. How does this situation unfold? OR Mumble reveals herself to someone on a recon mission. Roll a character within your tribe and have a short interaction with Mumble.",
+      "pulled": false
+    },
+    {
+      "description": "Five - A person someone knows appears on your door looking ill and ragged. Are they let in? How does the situation unfold? OR A character of your choice survives a near death experience in a way that seems too good to be true. What happens?",
+      "pulled": false
+    },
+    {
+      "description": "Six - You need more information about the origins of the apocalypse. Roll a character from your tribe and have an interaction with Yu or Ravi where you try to learn more. OR Mysterious pills are found in a mission. What are they, who ends up taking them and what happens when they do?",
+      "pulled": false
+    },
+    {
+      "description": "Seven - Someone gives a gift to someone else. What and why? OR Rumors about a cult that seems familiar to one of the inhabitants of the Weary Wanderer crop up. Roll a character from your tribe and have a short interaction with Gwen.",
+      "pulled": true
+    },
+    {
+      "description": "Eight - Roll a character from your tribe to learn medicine from Wren or Ace. OR Roll a character from your tribe to learn about engineering and tech from Fury or Mio. OR Roll a character from your tribe to learn combat from Claw or Castor. OR Pick a character from your tribe to act as mentor for someone else.",
+      "pulled": true
+    },
+    {
+      "description": "Nine - Describe a touching, intimate moment between two or more people, romantically or platonically. OR Describe a recon mission that almost goes to shit but yields big results.",
+      "pulled": true
+    },
+    {
+      "description": "Ten - Someone in your tribe wants to leave the Weary Wanderer for good. Why? Does someone go with them? OR Does someone manage to convince them not to go?",
+      "pulled": false
+    },
+    {
+      "description": "Jack - Players agree on three people each who are safe. Then pick two characters with /all and kill them off.",
+      "pulled": false
+    },
+    {
+      "description": "Queen - Someone is bit. Do they have what it takes to quickly amputate, do they hide it from their companions, or do they exile themselves for everyone else’s sake?",
+      "pulled": false
+    },
+    {
+      "description": "King - You find an impromptu graveyard that seems to contain graves for everyone who has died. You find familiar names and headstones, and the place looks well kept. How does your character(s) react, and what names do they recognize?",
+      "pulled": true
+    },
+    {
+      "description": "Ace - You find something not from this world, what is it, and what does holding the item make you remember?",
+      "pulled": true
+    }
+  ],
+  "projects": [
+    {
+      "name": "A Cure For What Ails You",
+      "description": "Ashe schemes for the best way to confront Ravi with what she knows, and how to force him to make a cure.",
+      "length": 2,
+      "remaining": 0
+    },
+    {
+      "name": "Blinded By The Lights",
+      "description": "Ravi acclimatises to his new condition.",
+      "length": 4,
+      "remaining": 0
+    }
+  ],
+  "currentDay": 17
+}
