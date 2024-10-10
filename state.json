@@ -1,0 +1,106 @@
+{
+  "currentUniverse": "GREEK",
+  "cards": [
+    {
+      "description": "**1** - *Hey readers! I have some really juicy gossip lined up for you all today.* Rumour has it that there's a person getting offered official super status very soon, OR Someone orchestrated a heist. How exciting! Roll a 1d12 to determine how it went.",
+      "pulled": true
+    },
+    {
+      "description": "**2** - *Good morning, readers! Did you see what went down this week? I could barely believe it myself;* A hero was seen out and about (and getting mighty close) with one of our top guesses for the real identity of a known villain! OR During that last fight between a villain and a hero, did it not seem like the villain was letting the hero win?",
+      "pulled": true
+    },
+    {
+      "description": "**3** - *Did you guys know that I pay attention to non-famous do-gooders (and do-badders) too? This week I bring you piping hot goss about someone you might not expect to be a super or villain. Redacted for privacy, of course. We don't doxx here at MM's.* Someone was seen by an accidental onlooker as they were getting in or out of their hero costume, OR Someone was seen by a friend or loved one committing an evil act.",
+      "pulled": true
+    },
+    {
+      "description": "**4** - *Love is in the air this week, dear readers.* We've been getting several tippers about a certain someone confessing their feelings, OR The results from our latest poll are in, and here's the supers and the villains you ship together the most!",
+      "pulled": true
+    },
+    {
+      "description": "**5** - *Hi again, readers!* Did any of you attend the event this weekend? It was swarming with heroes, both registered and not! OR Hope you're all staying safe out there, especially after that huge attack this weekend!",
+      "pulled": true
+    },
+    {
+      "description": "**6** - *Goood morning, readers!* My sources tell me there's someone at the hospital with severe injuries. Remember to text my tip line if you see anything out of the ordinary, let's piece together what happened together! OR A little bidie tells me a villain has been putting in the work, dealing a significant blow to an enemy.",
+      "pulled": true
+    },
+    {
+      "description": "**7** - *Happy Sunday, readers. Today I bring you huge rumours.* All alleged, of course, but a beloved public figure might not be all that they seem to be... OR This weekend, a known villain decided to plead their case to someone they thought they could trust... Could they?",
+      "pulled": true
+    },
+    {
+      "description": "**8** - *Greetings from the doctor's office! No, no, don't worry--not a hair on my head has been touched!* There is, however, someone hanging by a thread after an altercation earlier this week. And I just happened to be around during visitor's hours to see who would come by. OR do you ever wonder who villains turn into when they're sad?",
+      "pulled": true
+    },
+    {
+      "description": "**9** - *Readers! Let me get your take on this;* do you think that the relationship that just got announced is real or a PR stunt? OR What's your guys' favourite trope? Mine's enemies to lovers <3.",
+      "pulled": true
+    },
+    {
+      "description": "**10** - *Heya, Readers.* Have you ever throught about what a hero's day off might look like? OR Have you ever thought what a villain's day off might look like?",
+      "pulled": true
+    },
+    {
+      "description": "**11** - *Soo, what did you guys think about the annual charity event?* Very interesting that they made it a masquerade this year... I wonder who might be hidden behind those masks. OR do you think any villains might have attended in secret?",
+      "pulled": true
+    },
+    {
+      "description": "**12** - *Hi, guys. I don't usually cover serious stuff like this, but someone sent me some documents with information I morally could not keep to myself. OR 'HELLO MM READERS. APOLOGIES FOR THE INTRUSION, I WILL GIVE MM HER BLOG BACK SHORTLY. BUT FIRST, MAKE SURE TO SCREENSHOT AND SHARE THESE DOCUMENTS AND IMAGES.'",
+      "pulled": true
+    },
+    {
+      "description": "**13** - **Wildcard** The other players decide what this card should be based on recent events that have taken place.",
+      "pulled": true
+    },
+    {
+      "description": "**14** - Hey guys! This is totally not a phishing link or someone who has hacked this account Please click >>this<< link to get a good deal on hero merch! >w< [*You click the link and roll a 1d2. On a 1, you remember something good from a different time and place. On a 2, you remember something bad and confusing] OR 'HELLO, BLOG READERS. DO YOU BELIEVE IN TAKING WHAT YOU WANT? THIS IS YOUR OPPORTUNITY. STEAL HP OR VP FROM ANOTHER PLAYER AND DESCRIBE A SIMILAR HEIST TAKING PLACE WITH A VILLAIN.",
+      "pulled": true
+    }
+  ],
+  "projects": [
+    {
+      "name": "A Cure For What Ails You",
+      "description": "Ashe schemes for the best way to confront Ravi with what she knows, and how to force him to make a cure.",
+      "length": 2,
+      "remaining": 0,
+      "userId": "209834979876667392"
+    },
+    {
+      "name": "Blinded By The Lights",
+      "description": "Ravi acclimatises to his new condition.",
+      "length": 4,
+      "remaining": 0,
+      "userId": "698930632516173905"
+    },
+    {
+      "name": "What the doctor ordered",
+      "description": "A search party is looking for Wren",
+      "length": 3,
+      "remaining": 0,
+      "userId": "209834979876667392"
+    },
+    {
+      "name": "Butter Me Up, Doc",
+      "description": "Plot twist, Mumble is capable of ulterior motives. Project necessitates 1 more interaction between Ace and Mumble before deadline .",
+      "length": 8,
+      "remaining": 0,
+      "userId": "171521466964246528"
+    },
+    {
+      "name": "leaky pipes",
+      "description": "Yu needs to find the source of the leaks within the Conclave.",
+      "length": 3,
+      "remaining": 1,
+      "userId": "698930632516173905"
+    },
+    {
+      "name": "Buggin’ out",
+      "description": "Wren is waiting for something she can put in her column.",
+      "length": 3,
+      "remaining": 3,
+      "userId": "209834979876667392"
+    }
+  ],
+  "currentDay": 65
+}
